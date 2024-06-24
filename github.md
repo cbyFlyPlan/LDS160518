@@ -90,10 +90,10 @@ p {
     git remote remove origin
     ```
   + 2.5*验证更新*
-  ```bash
-      git fetch origin
-      git log origin/main
-  ```
+    ```bash
+        git fetch origin
+        git log origin/main
+    ```
 + **3、对branch的操作**
     + *3.1、查看所有本地分支*
     ```bash
@@ -144,4 +144,4 @@ p {
 ## 常见问题
 + **明明服务器已经把分支删除了，本地获取分支还是有**
   > git fetch -p     (*获取最新的远程信息并清理*)
-+ 
++ fadsfsdfsdsdfsadfsd
