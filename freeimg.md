@@ -30,6 +30,7 @@
     IntPtr FreeImage_OpenMemory(byte[] data, uint size): 打开一个内存流。
     void FreeImage_CloseMemory(IntPtr stream): 关闭一个内存流。
     void FreeImage_Unload(IntPtr dib): 卸载图像。
+sddfsdf
  
 
  
